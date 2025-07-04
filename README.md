@@ -1,6 +1,10 @@
 
 # Turbofan Engine RUL Prediction & Anomaly Detection Report
 
+---
+A machine learning pipeline for predicting the remaining useful life (RUL) of turbofan engines using NASA CMAPSS data, and detecting anomalies based on prediction errors. Includes feature engineering, model training, anomaly detection, and visual reporting.
+---
+
 ## Project Objective
 Develop a machine learning pipeline to:
 - Predict Remaining Useful Life (RUL) of turbofan engines.
